@@ -1,0 +1,17 @@
+{
+    "name": "synctube-youtube",
+    "version": "0.0.0",
+    "description": "YouTube media plugin for Synctube.",
+    "author": "Henry Merriam <henry@zephyrhosting.net>",
+    "main": "index",
+    "peerDependencies": {
+        "synctube": "^0.2.4"
+    },
+    "dependencies": {
+        "moment": "^2.5.1",
+        "moment-interval": "^0.2.1",
+        "request": "^2.53.0",
+        "videojs-youtube": "^1.2.13"
+    },
+    "private": true
+}
